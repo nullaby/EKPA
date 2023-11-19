@@ -1,2 +1,2 @@
 # EKPA
-EKPA 
+Lesson 
