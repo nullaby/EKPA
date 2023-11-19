@@ -1,2 +1,2 @@
-# EKPA
+# Example of README.md
 ## Lesson 
